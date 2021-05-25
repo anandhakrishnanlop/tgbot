@@ -50,7 +50,7 @@ the things I can help you with.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """HEY GLAD TO THINK TO DONATE TO MY CREATOR THERE IS ONLY ONE WAY TO PAY HIM [PAY NOW](https://t.me/JINN_OF_TG) ❣️❣️
+DONATE_STRING = """HEY GLAD TO THINK TO DONATE TO MY CREATOR THERE IS ONLY ONE WAY TO PAY HIM [PAY NOW](https://t.me/JINN_OF_TELEGRAM) ❣️❣️
 """
 
 IMPORTED = {}
